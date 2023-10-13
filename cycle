@@ -1,5 +1,5 @@
 {
-    "UrlTemplate" : "http://a.tile.thunderforest.com/cycle/%z/%x/%y.png?apikey=YOUR_API_KEY",
+    "UrlTemplate" : "http://a.tile.thunderforest.com/cycle/%z/%x/%y.png?apikey=aa1ca3122204484d8ab2fee5403e35da",
     "ImageFormat" : "png",
     "QImageFormat" : "Indexed8",
     "ID" : "thf-cycle",
